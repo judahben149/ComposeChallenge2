@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeChallenge2</string>
+    <string name="main">Main</string>
+    <string name="detail">Detail</string>
+</resources>
