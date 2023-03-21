@@ -2,4 +2,14 @@
     <string name="app_name">ComposeChallenge2</string>
     <string name="main">Main</string>
     <string name="detail">Detail</string>
+
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="follow_system">Follow system</string>
+
+    <string name="cd_notifications_enabled">Notifications Enabled</string>
+    <string name="cd_notifications_disabled">Notifications Disabled</string>
+
+    <string name="cd_hints_enabled">Hints Enabled</string>
+    <string name="cd_hints_disabled">Hints Disabled</string>
 </resources>
