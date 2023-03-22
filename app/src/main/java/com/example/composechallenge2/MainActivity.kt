@@ -5,6 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.composechallenge2.settings.Settings
 import com.example.composechallenge2.ui.theme.ComposeChallenge2Theme
 
 class MainActivity : ComponentActivity() {
@@ -13,7 +14,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             ComposeChallenge2Theme {
-
+                Settings()
             }
         }
     }
@@ -25,6 +26,6 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun DefaultPreview() {
     ComposeChallenge2Theme {
-
+        Settings()
     }
 }

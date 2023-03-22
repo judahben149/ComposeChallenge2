@@ -6,7 +6,7 @@ import com.example.composechallenge2.R
 data class SettingsState(
     val notificationEnabled: Boolean = false,
     val showHints: Boolean = true,
-    val marketingOption: MarketingOptions = MarketingOptions.ALLOWED,
+    val marketingOption: MarketingOptions = MarketingOptions.NOT_ALLOWED,
     val theme: Theme = Theme.FOLLOW_SYSTEM
 )
 
