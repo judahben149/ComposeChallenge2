@@ -2,4 +2,20 @@
     <string name="app_name">ComposeChallenge2</string>
     <string name="main">Main</string>
     <string name="detail">Detail</string>
+
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="follow_system">System</string>
+    <string name="select_theme">Select Theme</string>
+
+    <string name="cd_notifications_enabled">Notifications Enabled</string>
+    <string name="cd_notifications_disabled">Notifications Disabled</string>
+
+    <string name="cd_hints_enabled">Hints Enabled</string>
+    <string name="cd_hints_disabled">Hints Disabled</string>
+
+    <string-array name="marketing_emails_options">
+        <item> Opt-in for marketing emails</item>
+        <item> Don\'t send me emails</item>
+    </string-array>
 </resources>
